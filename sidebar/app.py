@@ -25,4 +25,4 @@ image_files = [
 selectbox_options_index = selectbox_option.index(your_option)
 img_file = image_files[selectbox_options_index]
 
-st.image(image_file, width=400, caption=your_option)
+st.image(img_file, width=400, caption=your_option)
