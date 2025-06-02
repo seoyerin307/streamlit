@@ -19,7 +19,7 @@ image_files = [
     'http://github.com/seoyerin307/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true',
     'http://github.com/seoyerin307/streamlit/blob/main/sidebar/data/Gogh.png?raw=true',
     'http://github.com/seoyerin307/streamlit/blob/main/sidebar/data/Munch.png?raw=true',
-    'http://github.com/seoyerin307/streamlit/blob/main/sidebar/data/Chagall.png?raw=true'
+    'http://github.com/seoyerin307/streamlit/blob/main/sidebar/data/ShinYoonbok.png?raw=true'
 ]
 
 selectbox_options_index = selectbox_option.index(your_option)
